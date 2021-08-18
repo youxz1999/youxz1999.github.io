@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hello everyone! My name is Xiaozhou You and I am currently studying for a master's degree in computer application technology at Peking University. In 2017, I received a bachelor's degree in information security from Harbin Institute of Technology. My research interests are information security, machine learning, artificial intelligence.  For any purpose, you can contact me by email youxz@stu.pku.edu.cn or xiaozhou4698@qq.com,i will read all of them.
+My name is Xiaozhou You and I am currently studying for a master's degree in computer application technology at Peking University. In 2017, I received a bachelor's degree in information security from Harbin Institute of Technology. My research interests are information security, machine learning, artificial intelligence.  
+For any purpose, you can contact me by email youxz@stu.pku.edu.cn or xiaozhou4698@qq.com,i will read all of them.
 
 Education
 ======
