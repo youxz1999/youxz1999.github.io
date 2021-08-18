@@ -9,14 +9,12 @@ redirect_from:
 ---
 
 Hello everyone! My name is Xiaozhou You and I am currently studying for a master's degree in computer application technology at Peking University. In 2017, I received a bachelor's degree in information security from Harbin Institute of Technology. My research interests are information security, machine learning, artificial intelligence.
-
 For any purpose, you can contact me by email youxz@stu.pku.edu.cn or xiaozhou4698@qq.com,i will read all of them.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in computer application technology, Peking University, 2024 (expected)
+* B.S. in information security, Harbin Institute of Technology, 2021
 
 Getting started
 ======
