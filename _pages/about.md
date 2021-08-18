@@ -14,9 +14,9 @@ For any purpose, you can contact me by email youxz@stu.pku.edu.cn or xiaozhou469
 
 Education
 ======
-B.S. in GitHub, GitHub University, 2012
-M.S. in Jekyll, GitHub University, 2014
-Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Getting started
 ======
