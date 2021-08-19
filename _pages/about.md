@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 My name is Xiaozhou You and I am currently studying for a master's degree in computer application technology at Peking University. In 2021, I received a bachelor's degree in information security from Harbin Institute of Technology. My research interests are information security, machine learning, artificial intelligence.  
-For any purpose, you can contact me by email youxz@stu.pku.edu.cn or xiaozhou4698@qq.com,i will read all of them.
+For any purpose, you can contact me by email **youxz@stu.pku.edu.cn** or **xiaozhou4698@qq.com**,i will read all of them.
 
 Education
 ======
@@ -17,7 +17,7 @@ Education
 
 News
 ======
-<font color='red'>[2021/09] I will join PKU as a CS master student!</font>  
+[2021/09] I will join PKU as a CS master student!<font color='red' ><sup>new!</font>  
 [2021/08] I create my homepage at here!  
 [2021/06] I get B.S. in information security from HIT!
 
@@ -27,6 +27,6 @@ Selected Publications
 
 Contact
 ======
-Email:xiaozhou4698@qq.com;youxz@stu.pku.edu.cn.  
-Tel:(+86)187-7977-4698  
-Wechat:youxz99 (Please tell your purpose)
+**Email**:xiaozhou4698@qq.com;youxz@stu.pku.edu.cn.  
+**Tel**:(+86)187-7977-4698  
+**Wechat**:youxz99 (Please tell your purpose)
