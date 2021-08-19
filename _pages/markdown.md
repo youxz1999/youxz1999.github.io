@@ -7,9 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-## Traveling in Wugonshang at Jiangxi Province
-<br><img src='/images/111.png'></br>fefe
-<br><img src='/images/foo-bar-identity.jpg'></br>111
+## Traveling in Wugonshang at Jiangxi Province:
+<br><img src='/images/wugongshang1.jpg'></br>
+<br><img src='/images/foo-bar-identity.jpg'></br>
 
 <!--
 ## Locations of key files/directories
