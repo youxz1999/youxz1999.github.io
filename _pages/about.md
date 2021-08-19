@@ -24,7 +24,7 @@ News
 Selected Publications
 ======
 1.游小舟.击键识人——基于键盘与鼠标特征的击键认证系统,第十届全国大学生信息安全大赛,北京,2021,8.
-[[**PDF**]](http://academicpages.github.io/files/paper1.pdf)
+[[**PDF**]](http://youxz1999.github.io/files/paper1.pdf)
 
 Contact
 ======

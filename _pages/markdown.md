@@ -15,7 +15,10 @@ redirect_from:
 ## Working in Mingde Club at HIT:
 <br> <img src='/images/mingde1.jpg' width=400px height=200px>
 <br> <img src='/images/mingde2.jpg' width=400px height=200px>
+
+
 <!--
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -209,4 +212,5 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+
 -->
