@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 ## Traveling in Wugonshang at Jiangxi Province
-![ ](htttp://youxz1999/youxz1999.github.io/images/111.png)
-![ ](E:\GitHub\youxz1999.github.io\images\foo-bar-identity.jpg)
+<br><img src='/images/111.png'></br>fefe
+<br><img src='/images/foo-bar-identity.jpg'></br>111
+
 <!--
 ## Locations of key files/directories
 
