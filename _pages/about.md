@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 My name is Xiaozhou You and I am currently studying for a master's degree in computer application technology at Peking University. In 2021, I received a bachelor's degree in information security from Harbin Institute of Technology. My research interests are information security, machine learning, artificial intelligence.  
-For any purpose, you can contact me by email **youxz@stu.pku.edu.cn** or **xiaozhou4698@qq.com**,i will read all of them.
+For any purpose, you can contact me by email **youxz@stu.pku.edu.cn**.
 
 Education
 ======
@@ -23,7 +23,8 @@ News
 
 Selected Publications
 ======
-1.游小舟.击键识人——基于键盘与鼠标特征的击键认证系统,第十届全国大学生信息安全大赛,北京,2021,8. 
+1.游小舟.击键识人——基于键盘与鼠标特征的击键认证系统,第十届全国大学生信息安全大赛,北京,2021,8.
+[[**PDF**]](http://academicpages.github.io/files/paper1.pdf)
 
 Contact
 ======
