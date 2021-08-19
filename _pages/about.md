@@ -28,6 +28,6 @@ Selected Publications
 
 Contact
 ======
-**Email**:xiaozhou4698@qq.com,youxz@stu.pku.edu.cn.  
-**Tel**:(+86)187-7977-4698  
-**Wechat**:youxz99 (Please tell your purpose)
+**Email**: xiaozhou4698@qq.com,youxz@stu.pku.edu.cn.  
+**Tel**: (+86)187-7977-4698  
+**Wechat**: youxz99 (Please tell your purpose)
