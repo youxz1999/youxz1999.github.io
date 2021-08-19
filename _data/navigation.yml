@@ -4,10 +4,10 @@ main:
     url: /publications/
 
   - title: "Researh"
-    url: /portfolio/
+    url: /cv/
 
-  - title: "Blogs"
-    url:  /year-archive/
+ # - title: "Blogs"
+ #   url:  /year-archive/
 
   - title: "Daily Life"
     url:   /markdown/
@@ -27,5 +27,5 @@ main:
  # - title: "CV"
   #  url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /cv/

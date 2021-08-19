@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 ## Traveling in Wugonshang at Jiangxi Province:
-<br> <img src='/images/wugongshang1.jpg' width=400px height=200px> 
-<br> <img src='/images/wugongshang2.jpg' width=400px height=200px>
-<br> <img src='/images/wugongshang3.jpg' width=400px height=200px>
+<br> <img src='/images/wugongshang1.jpg' width=500px height=250px> 
+<br> <img src='/images/wugongshang2.jpg' width=500px height=250px>
+<br> <img src='/images/wugongshang3.jpg' width=500px height=250px>
 
 ## Working in Mingde Club at HIT:
-<br> <img src='/images/mingde1.jpg' width=400px height=200px>
-<br> <img src='/images/mingde2.jpg' width=400px height=200px>
+<br> <img src='/images/mingde1.jpg' width=500px height=250px>
+<br> <img src='/images/mingde2.jpg' width=500px height=250px>
 
 
 <!--
