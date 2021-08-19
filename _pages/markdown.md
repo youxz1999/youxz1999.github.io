@@ -7,6 +7,10 @@ redirect_from:
   - /markdown.html
 ---
 
+## Traveling in Wugonshang at Jiangxi Province
+![ ](htttp://youxz1999/youxz1999.github.io/images/111.png)
+![ ](E:\GitHub\youxz1999.github.io\images\foo-bar-identity.jpg)
+<!--
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -200,3 +204,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+-->

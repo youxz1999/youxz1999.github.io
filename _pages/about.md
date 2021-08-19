@@ -17,7 +17,7 @@ Education
 
 News
 ======
-[2021/09] I join PKU as a CS master student!<sup><font color="red">new!</font></sup>  
+[2021/09] I join PKU as a CS master student!<sup><font color="red"> *new* </font></sup>  
 [2021/08] I create my Homepage at here!  
 [2021/06] I get B.S. in information security from HIT!
 
@@ -28,6 +28,6 @@ Selected Publications
 
 Contact
 ======
-**Email**: xiaozhou4698@qq.com,youxz@stu.pku.edu.cn.  
-**Tel**: (+86)187-7977-4698  
+**Email**: youxz@stu.pku.edu.cn,xiaozhou4698@qq.com.  
+**Tel**: (+86) 187-7977-4698  
 **Wechat**: youxz99 (Please tell your purpose)
