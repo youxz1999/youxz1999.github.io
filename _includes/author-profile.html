@@ -28,11 +28,11 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
-      {% if author.email %}
-      <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "youxz@stu.edu.cn" }}youxz@stu.edu.cn</a></li>
+      {% if author.email %}   <!--{{ site.data.ui-text[site.locale].email_label | default: "youxz@stu.edu.cn" }}-->
+      <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i>youxz@stu.edu.cn</a></li>
       {% endif %}
-      {% if author.uri %}
-        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "https://youxz1999.github.io" }}youxz1999.github.io</a></li>
+      {% if author.uri %}  <!--{{ site.data.ui-text[site.locale].website_label | default: "youxz1999.github.io" }}-->
+        <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i>youxz1999.github.io</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
