@@ -7,11 +7,13 @@ redirect_from:
   - /markdown.html
 ---
 
-## Traveling in Wugonshang at Jiangxi Province:
+# Traveling Memory
+## Traveling in Wugonshang at Jiangxi Province,China:
 <br> <img src='/images/wugongshang1.jpg' align=center width=750px height=200px> 
 <br> <img src='/images/wugongshang2.jpg' align=center width=750px height=200px>
 <br> <img src='/images/wugongshang3.jpg' align=center width=750px height=200px>
 
+# HIT Memory
 ## Working in Mingde Club at HIT:
 <br> <img src='/images/mingde1.jpg' align=center width=750px height=200px>
 <br> <img src='/images/mingde2.jpg' align=center width=750px height=200px>
