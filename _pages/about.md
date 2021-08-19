@@ -31,4 +31,5 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 Contact
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Email:xiaozhou4698@qq.com;youxz@stu.pku.edu.cn.  
+Tel:(+86)187-7977-4698
