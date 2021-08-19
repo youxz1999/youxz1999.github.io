@@ -17,16 +17,16 @@ Education
 
 News
 ======
-<font color='red'>[2021/09] I will join PKU as a CS master student!</font>
-[2021/08] I create my homepage at here!
+<font color='red'>[2021/09] I will join PKU as a CS master student!</font>  
+[2021/08] I create my homepage at here!  
 [2021/06] I get B.S. in information security from HIT!
 
 Selected Publications
-------
+======
 1.游小舟.击键识人——基于键盘与鼠标特征的击键认证系统,第十届全国大学生信息安全大赛,北京,2021,8. 
 
 Contact
-------
+======
 Email:xiaozhou4698@qq.com;youxz@stu.pku.edu.cn.  
 Tel:(+86)187-7977-4698  
 Wechat:youxz99 (Please tell your purpose)
