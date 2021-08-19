@@ -8,9 +8,13 @@ redirect_from:
 ---
 
 ## Traveling in Wugonshang at Jiangxi Province:
-<br><img src='/images/wugongshang1.jpg'></br>
-<br><img src='/images/foo-bar-identity.jpg'></br>
+<br> <img src='/images/wugongshang1.jpg' width=400px height=200px> 
+<br> <img src='/images/wugongshang2.jpg' width=400px height=200px>
+<br> <img src='/images/wugongshang3.jpg' width=400px height=200px>
 
+## Working in Mingde Club at HIT:
+<br> <img src='/images/mingde1.jpg' width=400px height=200px>
+<br> <img src='/images/mingde2.jpg' width=400px height=200px>
 <!--
 ## Locations of key files/directories
 
