@@ -31,7 +31,7 @@ Selected Publications
 
 **[MCM/ICM2020] Exploring hidden information in customer-supplied data**  
  **Xiaozhou You**，Nan Jiang,Zheng Li,Rongning Qu  
- American College Student Mathematical Modeling Contest <font color="#FF8C00">(International Second Prize)</font>  
+ American College Student Mathematical Modeling Contest <font color="#FF8C00">(Honorable Mention)</font>  
  Apr.2020  
  [[**PDF**]](http://youxz1999.github.io/files/MCMICM2020.pdf)[[**Certifi**]](http://youxz1999.github.io/files/MCMICM2020_Certificate.pdf.html)[[**Cite**]](http://youxz1999.github.io/files/CiteisComing.html)
 
