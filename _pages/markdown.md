@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /life/
 title: "Daily Life"
 author_profile: true
 redirect_from: 
