@@ -10,7 +10,7 @@ main:
  #   url:  /year-archive/
 
   - title: "Daily Life"
-    url:   /life/ #/markdown/
+    url:  /markdown/
 
   #- title:  "Talks"
   #  url: /talks/    
