@@ -27,7 +27,7 @@ Selected Publications
  **游小舟**，刘杨  
  全国大学生信息安全大赛作品赛<font color="#FF8C00">（全国三等奖）</font>  
  Aug.2020  
- [[**PDF**]](http://youxz1999.github.io/files/CISCN2020.pdf)[[**Certifi**]](http://youxz1999.github.io/files/CISCN2020_Certicate.pdf)[[**Cite**]](http://youxz1999.github.io/files/CiteisComing)
+ [[**PDF**]](http://youxz1999.github.io/files/CISCN2020.pdf)[[**Certifi**]](http://youxz1999.github.io/files/CISCN2020_Certificate.pdf)[[**Cite**]](http://youxz1999.github.io/files/CiteisComing)
 
 **[MCM/ICM2020] Exploring hidden information in customer-supplied data**  
  **Xiaozhou You**,Nan Jiang,Zheng Li,Rongning Qu  
