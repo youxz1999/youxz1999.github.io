@@ -3,10 +3,11 @@ permalink:/markdown/
 title: "Daily Life"
 author_profile: true
 redirect_from: 
-  - /markdown
+  - /md/
   - /markdown.html
  # -/md
 ---
+
 
 ## Traveling in Wugong Mountain at Jiangxi Province,China:
 <br> <img src='/images/wugongshang1.jpg' align=center width=750px height=200px> 
