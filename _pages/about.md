@@ -36,7 +36,7 @@ Selected Publications
  [[**PDF**]](http://youxz1999.github.io/files/MCMICM2020.pdf)[[**Certifi**]](http://youxz1999.github.io/files/MCMICM2020_Certificate.pdf.html)[[**Cite**]](http://youxz1999.github.io/files/CiteisComing.html)
 
  **[CUMCM2019] 基于计算机仿真的机场出租车问题的研究**  
- **游小舟**，刘玉晓，程欣，曲荣宁 
+ **游小舟**，刘玉晓，程欣，曲荣宁  
  全国大学生数学建模大赛<font color="#FF8C00">（省二等奖）</font>  
  Oct.2019  
  [[**PDF**]](http://youxz1999.github.io/files/CUMCM2019.pdf)[[**Certifi**]](http://youxz1999.github.io/files/CUMCM2019_Certificate.pdf.html)[[**Cite**]](http://youxz1999.github.io/files/CiteisComing.html)
