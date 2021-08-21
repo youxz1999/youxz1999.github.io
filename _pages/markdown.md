@@ -1,10 +1,10 @@
 ---
-permalink:/markdown/
+permalink:/life/
 title: "Daily Life"
 author_profile: true
 redirect_from: 
   - /life/
- # - /markdown.html
+  - /markdown.html
  # -/md
 ---
 
