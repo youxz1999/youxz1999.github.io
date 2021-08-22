@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Researh"
-permalink: /cv/
+permalink: /researh/ #/cv/
 author_profile: true
 redirect_from:
   - /resume

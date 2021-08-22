@@ -4,14 +4,16 @@ main:
     url: /publications/
 
   - title: "Researh"
-    url: /cv/
+    url: /researh/ #/cv/
 
  # - title: "Blogs"
  #   url:  /year-archive/
 
   - title: "Daily Life"
-    url:  /life/
+    url:  /life/ #/markdown/
 
+  - title: "中文版主页"
+    url: //
   #- title:  "Talks"
   #  url: /talks/    
 
