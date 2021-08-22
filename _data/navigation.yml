@@ -12,8 +12,9 @@ main:
   - title: "Daily Life"
     url:  /life/ #/markdown/
 
-  - title: "中文版主页"
-    url: //
+ # - title: "中文版主页"
+  #  url:  
+  
   #- title:  "Talks"
   #  url: /talks/    
 

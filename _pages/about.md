@@ -46,5 +46,9 @@ Contact
 **Email**: youxz@stu.pku.edu.cn, xiaozhou4698@qq.com.  
 **Tel**: (+86) 187-7977-4698  
 **Wechat**: youxz99 (Please tell your purpose)
-
+<div align='center'>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5vqjrohjblp&amp;s=220&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+</div>
+<div align='center'><a href="http://www.clustrmaps.com/map/youxz1999.github.io" title="Visitor Map for wenfei-wu.github.io"><img src="//www.clustrmaps.com/map_v2.png?u=uGL4&d=JWCQENT5aNR-hUEhTEdeSPFXz_WNb7TBM2tIfyyunwo" /></a></div>
+<div align='center'><a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTI3NzA0MA==' border='0' alt='Visitor Counter'></a></div>
+<div align='center'>since 2010</div>
