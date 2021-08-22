@@ -47,7 +47,7 @@ Contact
 **Tel**: (+86) 187-7977-4698  
 **Wechat**: youxz99 (Please mark your purpose)
 <div align='center'>
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5vqjrohjblp&amp;s=220&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" width=200px height=200px async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5vqjrohjblp&amp;s=220&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" width=150px height=150px async="async"></script>
 <!--
 <div align='center'>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=59uzljwjs17&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script>
