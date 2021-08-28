@@ -8,7 +8,7 @@ redirect_from:
  # -/md
 ---
 <details open>
-<summary>Traveling in Sanqing Mountain at Jiangxi Province,China:</summary>
+<summary><b><big>Traveling in Sanqing Mountain at Jiangxi Province,China:</big></b></summary>
 <br> <img src='/images/sanqingg1.jpg' align=center width=750px height=200px>
 <br> <img src='/images/sanqingg2.jpg' align=center width=750px height=200px>
 <br> <img src='/images/sanqingg3.jpg' align=center width=750px height=200px>
@@ -20,23 +20,23 @@ redirect_from:
 <br> <img src='/images/sanqingg9.jpg' align=center width=750px height=200px>
 <br> <img src='/images/sanqingg10.jpg' align=center width=750px height=200px>
 </details>
-
+  
 <details open>
-<summary>Traveling in Wuyaun City at Jiangxi Province,China:</summary>
+<summary><b><big>Traveling in Wuyaun City at Jiangxi Province,China:</big></b></summary>
 <br> <img src='/images/wuyuan1.jpg' align=center width=750px height=200px>
 <br> <img src='/images/wuyuan2.jpg' align=center width=750px height=200px>
 <br> <img src='/images/wuyuan3.jpg' align=center width=750px height=200px>
 </details>
 
 <details open>
-<summary>Traveling in Wugong Mountain at Jiangxi Province,China:</summary>
+<summary><b><big>Traveling in Wugong Mountain at Jiangxi Province,China:</big></b></summary>
 <br> <img src='/images/wugongshang1.jpg' align=center width=750px height=200px> 
 <br> <img src='/images/wugongshang2.jpg' align=center width=750px height=200px>
 <br> <img src='/images/wugongshang3.jpg' align=center width=750px height=200px>
 </details>
 
 <details open>
-<summary>Working in Mingde Club at HIT:</summary>
+<summary><b><big>Working in Mingde Club at HIT:</big></b></summary>
 <br> <img src='/images/mingde1.jpg' align=center width=750px height=200px>
 <br> <img src='/images/mingde2.jpg' align=center width=750px height=200px>
 <br> <img src='/images/mingde3.jpg' align=center width=750px height=200px>
