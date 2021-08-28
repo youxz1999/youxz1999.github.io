@@ -9,8 +9,7 @@ redirect_from:
 ---
 <details open>
 <summary><b><big>Traveling in Sanqing Mountain at Jiangxi Province,China:</big></b></summary>
-<br> <img src='/images/sanqingg1.jpg' align=center width=750px height=200px>
-<br> <img src='/images/sanqingg2.jpg' align=center width=750px height=200px>
+<br> <img src='/images/sanqingg1.jpg' align=center width=750px height=200px><img src='/images/sanqingg2.jpg' align=center width=750px height=200px>
 <br> <img src='/images/sanqingg3.jpg' align=center width=750px height=200px>
 <br> <img src='/images/sanqingg4.jpg' align=center width=750px height=200px>
 <br> <img src='/images/sanqingg5.jpg' align=center width=750px height=200px>
