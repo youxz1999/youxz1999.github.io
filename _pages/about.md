@@ -15,6 +15,7 @@ Education
 * M.S. in computer application technology, Peking University, 2024 (expected)
 * B.S. in information security, Harbin Institute of Technology, 2021
 
+[toc]
 News
 ======
 [2021/09] I join PKU as a CS master student!_<sup><font color="red">new</font></sup>_  
