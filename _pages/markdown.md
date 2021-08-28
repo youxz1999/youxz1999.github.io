@@ -10,18 +10,18 @@ redirect_from:
 <details open>
 <summary><b><big>Traveling in Wugong Mountain at Jiangxi Province,China:</big></b></summary>
 <br> <img src='/images/wugongshang1.jpg' align=center width=750px height=200px> 
-<br> <img src='/images/wugongshang2.jpg' align=center width=750px height=200px>
 <br> <img src='/images/wugongshang3.jpg' align=center width=750px height=200px>
+<br> <img src='/images/wugongshang2.jpg' align=center width=750px height=200px>
 </details>
 
 <details>
 <summary><b><big>Traveling in Sanqing Mountain at Jiangxi Province,China:</big></b></summary>
 <br><img src='/images/sanqingg10.jpg' align=center width=750px height=200px>
 <br><img src='/images/sanqingg8.jpg' align=center width=750px height=200px>
-<br> <img src='/images/sanqingg3.jpg' align=center width=750px height=200px>
-<br> <img src='/images/sanqingg7.jpg' align=center width=750px height=200px>
-<br> <img src='/images/sanqingg2.jpg' align=center width=750px height=200px>
+<br> <img src='/images/sanqingg6.jpg' align=center width=750px height=200px>
 <br> <img src='/images/sanqingg1.jpg' align=center width=750px height=200px>
+<br> <img src='/images/sanqingg2.jpg' align=center width=750px height=200px>
+<br> <img src='/images/sanqingg3.jpg' align=center width=750px height=200px>
 </details>
   
 <details>
