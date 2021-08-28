@@ -17,7 +17,7 @@ Education
 
 News
 ======
-[2021/09] I join PKU as a CS master student!<sup><font color="red">new</font></sup>  
+[2021/09] I join PKU as a CS master student!<sup><font color="red">_new_</font></sup>  
 [2021/08] I create my Homepage at Github!  
 [2021/06] I get B.S. in information security from HIT!
 
@@ -49,8 +49,6 @@ Contact
 
 <div align='center'>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5vqjrohjblp&amp;s=220&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" width=150px height=150px async="async"></script>
-
-
 <!--
 <div align='center'>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/4.js?i=59uzljwjs17&amp;m=0&amp;h=128&amp;c=ff0000&amp;r=0" async="async"></script>
