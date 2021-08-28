@@ -17,7 +17,7 @@ Education
 
 News
 ======
-[2021/09] I join PKU as a CS master student!_<sup><font color="red">new</font></sup>_  
+[2021/09] I join PKU as a CS master student!_<b><sup><font color="red">new</font></sup></b>_  
 [2021/08] I create my Homepage at Github!  
 [2021/06] I get B.S. in information security from HIT!
 
