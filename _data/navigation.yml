@@ -6,8 +6,8 @@ main:
   - title: "Researh"
     url: /researh/ #/cv/
 
- # - title: "Blogs"
- #   url:  /year-archive/
+  - title: "Blogs"
+    url:  /year-archive/
 
   - title: "Daily Life"
     url:  /life/ #/markdown/
