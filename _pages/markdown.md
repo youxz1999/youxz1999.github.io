@@ -8,6 +8,13 @@ redirect_from:
  # -/md
 ---
 <details open>
+<summary><b><big>First Day in Peking University,China:</big></b></summary>
+<br> <img src='/images/pku1.jpg' align=center width=750px height=200px> 
+<br> <img src='/images/pku2.jpg' align=center width=750px height=200px>
+<br> <img src='/images/pku3.jpg' align=center width=750px height=200px>
+</details>
+
+<details open>
 <summary><b><big>Traveling in Wugong Mountain at Jiangxi Province,China:</big></b></summary>
 <br> <img src='/images/wugongshang1.jpg' align=center width=750px height=200px> 
 <br> <img src='/images/wugongshang2.jpg' align=center width=750px height=200px>
