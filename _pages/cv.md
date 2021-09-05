@@ -29,11 +29,9 @@ return " ";
 document.write(password()); 
 </SCRIPT>
 
-# 游小舟
-just a demo
-<br>xiaozhou's[[link]](https://youxz1999.github.io)
 
 # 生活
+Content is coming!  
 
 # 学术
 ## Sadie Creese
