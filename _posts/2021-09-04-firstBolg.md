@@ -32,5 +32,5 @@ document.write(password());
 
 # 前言
 我的第一篇博客，不知道应该写什么，就以此纪念以下我刚来到北大吧，以后这些博客可能会更新一些我的日常、学生研究、股市分析、人生感悟等等。  
-![PKU1]('.../images/pku1.jpg')
-
+![PKU1]('https://youxz1999.github.io/images/pku1.jpg' "title")
+<br><img src='/images/pku1.jpg' align=center width=750px height=200px>
