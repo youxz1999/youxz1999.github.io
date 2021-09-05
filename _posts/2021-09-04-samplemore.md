@@ -17,7 +17,7 @@ while (testV < 3) {
 if (!pass1) 
 history.go(-1); 
 if (pass1 == "888") { 
-alert('Success!'); 
+//alert('Success!'); 
 break; 
 } 
 testV+=-1; 
