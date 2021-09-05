@@ -4,10 +4,13 @@ main:
     url: /publications/
 
   - title: "Researh"
-    url: /researh/ #/cv/
-
+    url: /researh/ #/portfolio/
+  
   - title: "Blogs"
     url:  /year-archive/
+
+  - title: "People"
+    url: /people/ #/CV/
 
   - title: "Daily Life"
     url:  /life/ #/markdown/

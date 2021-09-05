@@ -1,11 +1,19 @@
 ---
 layout: archive
-title: "Researh"
-permalink: /researh/ #/cv/
+title: "People"
+permalink: /people/ #/cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+# 游小舟
+just a demo
+<br>xiaozhou's[[link]](https://youxz1999.github.io)
+
+# 生活
+
+# 学术
+
 <!--
 {% include base_path %}
 
@@ -58,4 +66,3 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
-## Researh is coming!
