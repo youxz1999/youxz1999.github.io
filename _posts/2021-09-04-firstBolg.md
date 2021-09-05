@@ -10,35 +10,20 @@ tags:
 我的第一篇博客，简单讲讲开个头！
 
 <SCRIPT language=JavaScript> 
- 
 function password() { 
- 
 var testV = 1; 
- 
 var pass1 = prompt('Input Password:',''); 
- 
 while (testV < 3) { 
- 
 if (!pass1) 
- 
 history.go(-1); 
- 
 if (pass1 == "888") { 
- 
 alert('Success!'); 
- 
 break; 
- 
 } 
- 
 testV+=-1; 
- 
 var pass1 = prompt('Wrong! Please input again'); 
- 
-} 
- 
+}
 if (pass1!="password" & testV ==3) 
- 
 history.go(-1); 
 return " "; 
 } 
@@ -47,5 +32,5 @@ document.write(password());
 
 # 前言
 我的第一篇博客，不知道应该写什么，就以此纪念以下我刚来到北大吧，以后这些博客可能会更新一些我的日常、学生研究、股市分析、人生感悟等等。  
-![PKU]('/images/pku1.jpg')
+![PKU]('.../images/pku1.jpg')
 
