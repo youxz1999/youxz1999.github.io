@@ -6,6 +6,29 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+
+<SCRIPT language=JavaScript> 
+function password() { 
+var testV = 1; 
+var pass1 = prompt('Input Password:',''); 
+while (testV < 3) { 
+if (!pass1) 
+history.go(-1); 
+if (pass1 == "888") { 
+//alert('Success!'); 
+break; 
+} 
+testV+=-1; 
+var pass1 = prompt('Wrong! Please input again'); 
+}
+if (pass1!="password" & testV ==3) 
+history.go(-1); 
+return " "; 
+} 
+document.write(password()); 
+</SCRIPT>
+
 # 游小舟
 just a demo
 <br>xiaozhou's[[link]](https://youxz1999.github.io)
@@ -13,6 +36,18 @@ just a demo
 # 生活
 
 # 学术
+## Sadie Creese
+Oxford 网络安全 威胁建模
+<br>[[link]](http://www.cs.ox.ac.uk/people/sadie.creese/)  
+
+## Ioannis Agrafiotis
+入侵检测
+<br>[[link]](http://www.cs.ox.ac.uk/people/ioannis.agrafiotis/)
+
+## Bernardo Cuenca Grau
+Oxford 人工智能 数据管理 华人学生多
+<br>[[link]](http://www.cs.ox.ac.uk/people/bernardo.cuencagrau/)
+
 
 <!--
 {% include base_path %}
