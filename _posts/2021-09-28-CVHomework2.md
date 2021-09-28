@@ -6,7 +6,7 @@ tags:
   - DeepLearning
   - ComputerVision
 ---
-
+在Apple M1的环境下安装miniforge3配置python环境，安装opencv等库，进行人脸检测。这也是计算机视觉课程的作业。
 # 一、实验环境
 
 - 操作系统：macOS Big Sur 11.6
@@ -17,7 +17,7 @@ tags:
 
 - Anaconda：miniforge(由于ARM架构兼容问题，最终选择安装了miniforge)
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_1.png" alt="image-20210928174909014" style="zoom: 33%;" />
+<img src="/images/Blog21-09-28Image/w2_1.png" alt="image-20210928174909014" style="zoom: 33%;" />
 
 #  二、环境配置
 
@@ -29,7 +29,7 @@ tags:
 
 [国内版本](https://gitee.com/photographer_adam/miniforge)：https://gitee.com/photographer_adam/miniforge
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_2.png" alt="image-20210928175834003" style="zoom: 25%;" />
+<img src="/images/Blog21-09-28Image/w2_2.png" alt="image-20210928175834003" style="zoom: 25%;" />
 
 下载完成之后，进入对应的安装目录，打开终端：
 
@@ -47,7 +47,7 @@ tags:
 
 安装结果如下：
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_3.png" alt="image-20210928180729756" style="zoom: 25%;" />
+<img src="/images/Blog21-09-28Image/w2_3.png" alt="image-20210928180729756" style="zoom: 25%;" />
 
 ## 2.创建虚拟python环境,导入对于的包
 
@@ -67,13 +67,13 @@ tags:
 
 结果如下：
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_4.png" alt="image-20210928181615699" style="zoom: 50%;" />
+<img src="/images/Blog21-09-28Image/w2_4.png" alt="image-20210928181615699" style="zoom: 50%;" />
 
  环境的删除操作,以环境py39为例：
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_13.png" alt="image-20210928181615699" style="zoom: 50%;" />
+<img src="/images/Blog21-09-28Image/w2_13.png" alt="image-20210928181615699" style="zoom: 50%;" />
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_14.png" alt="image-20210928181615699" style="zoom: 50%;" />
+<img src="/images/Blog21-09-28Image/w2_14.png" alt="image-20210928181615699" style="zoom: 50%;" />
 
 ## 3.安装numpy,matplotlib,opencv
 
@@ -83,11 +83,11 @@ tags:
 
 对于opencv,选择通过pycharm加载安装包的方式，以次点击>Preferences | Project: Desktop | Python Interpreter具体如下图：
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_5.png" alt="image-20210928182753109" style="zoom: 25%;" />
+<img src="/images/Blog21-09-28Image/w2_5.png" alt="image-20210928182753109" style="zoom: 25%;" />
 
 搜索opencv进行安装即可：
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_6.png" alt="image-20210928183014453" style="zoom: 25%;" />
+<img src="/images/Blog21-09-28Image/w2_6.png" alt="image-20210928183014453" style="zoom: 25%;" />
 
 可通过如下命令查看是否安装成功：
 
@@ -95,9 +95,9 @@ tags:
 
 结果如下，全部安装成功。
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_7.png" alt="image-20210928183137428" style="zoom: 25%;" />
+<img src="/images/Blog21-09-28Image/w2_7.png" alt="image-20210928183137428" style="zoom: 25%;" />
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_8.png" alt="image-20210928183220410" style="zoom: 25%;" />
+<img src="/images/Blog21-09-28Image/w2_8.png" alt="image-20210928183220410" style="zoom: 25%;" />
 
 #  三、人脸检测实验
 
@@ -107,7 +107,7 @@ tags:
 
 本工程用到的人脸检测文件[haarcascade_frontalface_default.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)和人脸眼睛检测文件[haarcascade_eye.xml](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml)。
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_9.png" alt="image-20210928184004998" style="zoom: 25%;" />
+<img src="/images/Blog21-09-28Image/w2_9.png" alt="image-20210928184004998" style="zoom: 25%;" />
 
 ## 2.基本流程
 
@@ -160,15 +160,15 @@ cv2.destroyAllWindows()
 
 运行代码，初始界面如下：
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_10.png" alt="image-20210928184857542" style="zoom: 50%;" />
+<img src="/images/Blog21-09-28Image/w2_10.png" alt="image-20210928184857542" style="zoom: 50%;" />
 
 点击动态视频检测，结果如下：
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_11.png" alt="iShot2021-09-25 17.05.45" style="zoom: 25%;" />
+<img src="/images/Blog21-09-28Image/image/w2_11.png" alt="iShot2021-09-25 17.05.45" style="zoom: 25%;" />
 
 点击静态图片检测，结果如下：
 
-<img src="https://github.com/youxz1999/Computer-Vision-Lesson/blob/master/Homework/image/w2_12.png" alt="image-20210928185909299" style="zoom: 50%;" />
+<img src="/images/Blog21-09-28Image/w2_12.png" alt="image-20210928185909299" style="zoom: 50%;" />
 
 ## 4.完整代码
 
