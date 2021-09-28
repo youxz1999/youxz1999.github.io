@@ -1,6 +1,6 @@
 ---
 title: 'Apple M1配置python环境，进行人脸检测'
-date: 2021-09-04
+date: 2021-09-28
 permalink: /posts/2021/0928
 tags:
   - DeepLearning
