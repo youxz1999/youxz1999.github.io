@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Xiaozhou You and I am currently studying for a master's degree in computer application technology at Peking University. In 2021, I received a bachelor's degree in information security from Harbin Institute of Technology. My research interests are information security, machine learning, artificial intelligence.  
+My name is Xiaozhou You and I am currently studying for a master's degree in computer application technology at Peking University. In 2021, I received a bachelor's degree in information security from Harbin Institute of Technology. My research interests are text-to-image synthesis, generative models, transformer, deep learning.  
 Feel free to contact me by email **youxz@stu.pku.edu.cn**.
 
 Education
@@ -15,7 +15,8 @@ Education
 * M.S. in computer application technology, Peking University, 2024 (expected)
 * B.S. in information security, Harbin Institute of Technology, 2021
 
-# Preprint
+Preprint
+======
 **[ICCV2023 under review] TransT2I: Transformer-based GAN for Text-to-Image Synthesis**  
 **Xiaozhou You**, Jian Zhang  
 [[**PDF**]](http://youxz1999.github.io/files/TransT2I.pdf)   
@@ -28,7 +29,7 @@ AAAI2023 rating: borderline accept, borderline reject
 
 **TextCLIP: Text-Guided Face Image Generation And Manipulation Without Adversarial Training**  
 **Xiaozhou You**, Jian Zhang  
-[[**PDF**]](http://youxz1999.github.io/files/TextCLIP)
+[[**PDF**]](http://youxz1999.github.io/files/TextCLIP.pdf)
 <!-- News
 ======
 [2021/09] I join PKU as a CS master student!_<b><sup><font color="red">new</font></sup></b>_  
