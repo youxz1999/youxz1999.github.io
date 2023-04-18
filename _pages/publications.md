@@ -15,7 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-## Preprint
+Preprint
+======
 **[ICCV2023 under review] TransT2I: Transformer-based GAN for Text-to-Image Synthesis**  
 **Xiaozhou You**, Jian Zhang  
 [[**PDF**]](http://youxz1999.github.io/files/TransT2I.pdf)   
@@ -30,7 +31,8 @@ AAAI2023 rating: borderline accept, borderline reject
 **Xiaozhou You**, Jian Zhang  
 [[**PDF**]](http://youxz1999.github.io/files/TextCLIP.pdf)
 
-## Contests
+Contests
+======
  **[CISCN2020] 击键识人——基于键盘与鼠标行为的击键认证系统**  
  **游小舟**，刘杨  
  全国大学生信息安全大赛作品赛<font color="#FF8C00">（全国三等奖）</font>  
