@@ -15,13 +15,27 @@ Education
 * M.S. in computer application technology, Peking University, 2024 (expected)
 * B.S. in information security, Harbin Institute of Technology, 2021
 
-News
+# Preprint
+**[ICCV2023 under review] TransT2I: Transformer-based GAN for Text-to-Image Synthesis**  
+**Xiaozhou You**, Jian Zhang  
+[[**PDF**]](http://youxz1999.github.io/files/TransT2I.pdf)   
+CVPR2023 rating: borderline, borderline, weak reject
+
+**FuseGAN: A Global Cross-Modal Fusion Baseline for Text to Image Synthesiss**  
+**Xiaozhou You**, Jian Zhang, Zhenhua Yang  
+[[**PDF**]](http://youxz1999.github.io/files/FuseGAN.pdf)  
+AAAI2023 rating: borderline accept, borderline reject
+
+**TextCLIP: Text-Guided Face Image Generation And Manipulation Without Adversarial Training**  
+**Xiaozhou You**, Jian Zhang  
+[[**PDF**]](http://youxz1999.github.io/files/TextCLIP)
+<!-- News
 ======
 [2021/09] I join PKU as a CS master student!_<b><sup><font color="red">new</font></sup></b>_  
 [2021/08] I create my Homepage at Github!  
-[2021/06] I receive B.S. in information security from HIT!
+[2021/06] I receive B.S. in information security from HIT! -->
 
-Selected Publications
+Contests
 ======
  **[CISCN2020] 击键识人——基于键盘与鼠标行为的击键认证系统**  
  **游小舟**，刘杨  
