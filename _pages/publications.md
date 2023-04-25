@@ -15,6 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+
 Preprint
 ======
 **[ICCV2023 under review] TransT2I: Transformer-based GAN for Text-to-Image Synthesis**  
